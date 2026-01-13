@@ -229,7 +229,7 @@ Se encontrar algum problema ou tiver dúvidas:
 
 Desenvolvido com amor, respeito e energia visceral para honrar as 12 Pombagiras.
 
-**Imagens**: Repositório oficial [pombagiras/melusine](https://github.com/pombagiras/melusine)
+**Página oficial [pombagiras/melusine](https://pombagiras.github.io/melusine/)
 
 ---
 
